@@ -26,7 +26,7 @@ import "./style.css";
 const PERSON_NAME = "Hishara";
 
 const LETTER_TEXT =
-  "-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------I had so many things to write about you… I even started writing a whole paragraph. But the moment I started, my mind went completely blank. 😂 So, I have nothing to write anymore!Anyway, Happy Birthday Cutieee 🥳❤️Stay happy, stay crazy, and please don’t get any older… you’re already old enough! 😂🎉";
+  "----------------------------------------------------------------------------------------------------------------------------------------------------------------------I had so many things to write about you… I even started writing a whole paragraph. But the moment I started, my mind went completely blank. 😂 So, I have nothing to write anymore!Anyway, Happy Birthday Cutieee 🥳❤️Stay happy, stay crazy, and please don’t get any older… you’re already old enough! 😂🎉";
 
 const SONG = "/music/birthday-song.mp3";
 
